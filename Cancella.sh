@@ -1,0 +1,11 @@
+rm Mouatabir/verifica/log/web.log
+rmdir Mouatabir/verifica/log
+rm Mouatabir/verifica/websort.log
+rm Mouatabir/verifica/success.log
+rm Mouatabir/verifica/log_192.168.1.10.log
+rm Mouatabir/verifica/primiultimi3.log
+rm Mouatabir/verifica/conteggi.log
+rmdir Mouatabir/verifica
+rm Mouatabir/backup/web.bck
+rmdir Mouatabir/backup
+rmdir Mouatabir
